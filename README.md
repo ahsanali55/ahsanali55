@@ -5,6 +5,7 @@
 ---
 
 ## 🚀 About Me
+
 💻 I’m a MERN Stack Developer with a focus on the **MERN stack**  
 🔧 I build **responsive web applications** using **React.js, Next.js**  
 🧠 Currently diving deeper into backend with **Node.js, Express, and MongoDB**  
@@ -28,6 +29,7 @@
 ---
 
 ## 💼 Professional Experience
+
 **Next.js Frontend Developer – Sera Innovations**  
 📍 Remote | 🗓️ Jan 1 – Jan 30, 2026  
 
