@@ -1,5 +1,5 @@
-                                             #  💫 Hi 👋, I'm Ahsan Ali
-                               ### A Passionate Software Engineer | **MERN Stack Developer** |   
+#                                               💫 Hi 👋, I'm Ahsan Ali
+###                                A Passionate Software Engineer | **MERN Stack Developer** |   
 ![Typing Animation](https://camo.githubusercontent.com/868fe832529068e5a5a3be8d193ceba58495c2b16f189c33572e7a72d9233fe5/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d46756c6c2d537461636b2b536f6674776172652b446576656c6f7065723b4d45524e2b537461636b2b5370656369616c6973743b52656163742b2537432b4e6578742e6a732b2537432b4e6f64652e6a732b4c6f7665723b4f70656e2b536f757263652b436f6e7472696275746f723b416c776179732b4c6561726e696e672b536f6d657468696e672b4e6577212663656e7465723d747275652677696474683d353030266865696768743d3435)
 
 ---
