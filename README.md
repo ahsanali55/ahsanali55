@@ -8,7 +8,7 @@
 
 💻 I’m a MERN Stack Developer with a focus on the **MERN stack**  
 🔧 I build **responsive web applications** using **React.js, Next.js**  
-🧠 Currently diving deeper into backend with **Node.js, Express, MongoDB and PostgreSQL**  
+🧠 Currently diving deeper into backend with **Node.js, Express.js, MongoDB and PostgreSQL**  
 🌍 Passionate about **remote work** and building impactful products from anywhere  
 ✨ Always exploring **new technologies** and **best practices** in the dev world  
 
