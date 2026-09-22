@@ -17,7 +17,7 @@
 ## 🎓 Education
 
 **Bachelors in Computer Science (BSCS)** – Virtual University  
-📍 Pakistan | 🗓️ April 2023 – Feb 2027 | **7th Semester**
+📍 Pakistan | 🗓️ April 2023 – Feb 2027 | **8th Semester**
 
 - Currently pursuing **BS in Computer Science** at Virtual University  
 - Focused on **software development, MERN stack, and web technologies**  
